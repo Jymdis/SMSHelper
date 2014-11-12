@@ -1,0 +1,22 @@
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.exe
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.pdb
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.xml
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.frmSMSHelperConfigurator.resources
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.Resources.resources
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.exe
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.xml
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.pdb
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.exe
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.pdb
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\bin\Release\SMSHelperConfigurator.xml
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.frmSMSHelperConfigurator.resources
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.Resources.resources
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.exe
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.xml
+F:\Slask\vha\SMShelpper\SMSHelperConfigurator\obj\x86\Release\SMSHelperConfigurator.pdb

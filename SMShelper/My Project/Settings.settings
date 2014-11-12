@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailTo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">support@company.com</Value>
+    </Setting>
+    <Setting Name="MailFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">support@company.com</Value>
+    </Setting>
+    <Setting Name="SMTPserver" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="MailSubject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SMS recived</Value>
+    </Setting>
+    <Setting Name="CheckTimeInSeconds" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="MailBody" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Standard RTF message</Value>
+    </Setting>
+    <Setting Name="PathToTele2Connect" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)\Tele2 Connect\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

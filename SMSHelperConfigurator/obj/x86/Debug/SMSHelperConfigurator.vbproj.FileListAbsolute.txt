@@ -1,0 +1,11 @@
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Debug\SMSHelperConfigurator.exe
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Debug\SMSHelperConfigurator.pdb
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\bin\Debug\SMSHelperConfigurator.xml
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\SMSHelperConfigurator.frmSMSHelperConfigurator.resources
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\SMSHelperConfigurator.Resources.resources
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\SMSHelperConfigurator.exe
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\SMSHelperConfigurator.xml
+C:\Users\ala\Documents\Visual Studio 2010\Projects\SMShelper\SMSHelperConfigurator\obj\x86\Debug\SMSHelperConfigurator.pdb
